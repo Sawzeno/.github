@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-**All repos from The Shatterstar company**
+**All repos from The Sawzeno company**
